@@ -1,5 +1,4 @@
- i
- :q
- a
-:wq
+
 git course
+
+aprendendo o git
